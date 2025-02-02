@@ -58,7 +58,7 @@ Special thanks to Md Shihab for sponsoring this project.
 
 ## Contact
 
-For any inquiries or support, please contact us at [support@example.com](mailto:support@example.com).
+For any inquiries or support, please contact us at (mdshihabkhandokar18@gmail.com).
 
 ---
 
